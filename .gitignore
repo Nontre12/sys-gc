@@ -1,10 +1,10 @@
+# IDE
+.vscode/
 
+# Makefile
 build/
 
 *.ovl
-
 *.elf
-
 *.nacp
-
 *.nro
